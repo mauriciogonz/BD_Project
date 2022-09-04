@@ -1,0 +1,15 @@
+{
+  "name": "proyecto_bd",
+  "version": "1.0.0",
+  "description": "this project is a activity for the asignature of databases",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "pg": "^8.8.0"
+  }
+}
